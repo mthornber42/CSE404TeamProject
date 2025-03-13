@@ -55,7 +55,7 @@ which are as follows:
 The proportion of positive classifications that are actually positive.
 
 $$
-\text{Prevision}
+\text{Precision}
 =\frac{\text{correctly classified actual positives}}{\text{all classified as 
 positives}}
 =\frac{TP}{TP+FP}
